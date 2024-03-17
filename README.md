@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Ruby version ruby 2.7.0
 
-Things you may want to cover:
+# To Create the dummy data simply enter the command:
+  $ rails db:seed
 
-* Ruby version
+After starting the rails server call the API
 
-* System dependencies
+To call the API use:
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+URL: http://localhost:3000/employees/tax_deduction
